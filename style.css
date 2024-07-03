@@ -30,7 +30,7 @@ header {
 .navbar {
     display: flex;
     background-color: #070a0a;
-    padding: 30px 0px;
+    padding: 20px 0px;
     align-items: center;
     max-width: 1500px;
     margin: 0 auto;
