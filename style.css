@@ -29,6 +29,7 @@ header {
 
 .navbar {
     display: flex;
+    background-color: #393b3b;
     padding: 22px 0;
     align-items: center;
     max-width: 1200px;
